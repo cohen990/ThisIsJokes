@@ -28,5 +28,10 @@ namespace ThisIsJokes.Controllers
 
             return View();
         }
+
+        public ActionResult WireFrame()
+        {
+            return View();
+        }
     }
 }
