@@ -18,15 +18,6 @@ C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debu
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\System.Web.WebPages.dll
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\System.Web.WebPages.Razor.dll
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\ThisIsJokes.dll
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\EntityFramework.dll
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\System.Web.Optimization.dll
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\DotNetOpenAuth.Core.dll
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\ThisIsJokes.pdb
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\System.Net.Http.Formatting.xml
@@ -42,14 +33,6 @@ C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debu
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\Microsoft.Data.Edm.xml
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\Microsoft.Data.OData.xml
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\System.Spatial.xml
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\EntityFramework.xml
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\DotNetOpenAuth.Core.xml
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
-C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
@@ -80,3 +63,5 @@ C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debu
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\obj\Debug\ThisIsJokes.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\obj\Debug\ThisIsJokes.Tests.dll
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\obj\Debug\ThisIsJokes.Tests.pdb
+C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\xunit.dll
+C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes.Tests\bin\Debug\xunit.xml

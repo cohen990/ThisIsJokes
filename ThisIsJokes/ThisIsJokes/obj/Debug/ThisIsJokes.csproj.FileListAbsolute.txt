@@ -84,3 +84,5 @@ C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes\bin\zh-Hant\Sy
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes\obj\Debug\ThisIsJokes.csprojResolveAssemblyReference.cache
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes\obj\Debug\ThisIsJokes.dll
 C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes\obj\Debug\ThisIsJokes.pdb
+C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes\bin\xunit.dll
+C:\Users\Dan\Documents\GitHub\ThisIsJokes\ThisIsJokes\ThisIsJokes\bin\xunit.xml
